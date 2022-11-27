@@ -1,0 +1,16 @@
+C:\Users\Piero\Documents\School\NiOP\Staticke varijable\Staticke varijable\bin\Debug\Staticke varijable.exe.config
+C:\Users\Piero\Documents\School\NiOP\Staticke varijable\Staticke varijable\bin\Debug\Staticke varijable.exe
+C:\Users\Piero\Documents\School\NiOP\Staticke varijable\Staticke varijable\bin\Debug\Staticke varijable.pdb
+C:\Users\Piero\Documents\School\NiOP\Staticke varijable\Staticke varijable\obj\Debug\Staticke varijable.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\Staticke varijable\Staticke varijable\obj\Debug\Staticke varijable.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\Staticke varijable\Staticke varijable\obj\Debug\Staticke varijable.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\Staticke varijable\Staticke varijable\obj\Debug\Staticke varijable.exe
+C:\Users\Piero\Documents\School\NiOP\Staticke varijable\Staticke varijable\obj\Debug\Staticke varijable.pdb
+D:\Codes\Staticke varijable\bin\Debug\Staticke varijable.exe.config
+D:\Codes\Staticke varijable\bin\Debug\Staticke varijable.exe
+D:\Codes\Staticke varijable\bin\Debug\Staticke varijable.pdb
+D:\Codes\Staticke varijable\obj\Debug\Staticke varijable.csproj.AssemblyReference.cache
+D:\Codes\Staticke varijable\obj\Debug\Staticke varijable.csproj.SuggestedBindingRedirects.cache
+D:\Codes\Staticke varijable\obj\Debug\Staticke varijable.csproj.CoreCompileInputs.cache
+D:\Codes\Staticke varijable\obj\Debug\Staticke varijable.exe
+D:\Codes\Staticke varijable\obj\Debug\Staticke varijable.pdb
